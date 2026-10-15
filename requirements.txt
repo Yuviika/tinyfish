@@ -1,0 +1,4 @@
+tinyfish
+python-dotenv
+streamlit
+pandas
